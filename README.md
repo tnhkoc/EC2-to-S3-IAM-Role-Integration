@@ -74,7 +74,29 @@ curl http://169.254.169.254/latest/meta-data/iam/info
 
 ## 📷 Screenshot
 
-> _(Add a screenshot of terminal output or EC2 dashboard here if desired)_
+1. EC2 instance details  
+![EC2 Instance](screenshots/01-ec2-instance-details.png)
+
+2. SSH connection success  
+![SSH](screenshots/02-ssh-connection-success.png)
+
+3. Apache installation  
+![Apache Install](screenshots/03-apache-installation.png)
+
+4. Apache started and index file created  
+![Apache Enable](screenshots/04-start-enable-apache.png)
+
+5. Web browser result  
+![Browser](screenshots/05-browser-output.png)
+
+6. IAM role setup  
+![IAM Role](screenshots/06-iam-role-details.png)
+
+7. IAM role attached to EC2  
+![Role Attached](screenshots/07-ec2-iam-role-attached.png)
+
+8. S3 bucket listed from EC2  
+![S3 List](screenshots/08-s3-listing.png)
 
 ---
 
