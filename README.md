@@ -1,4 +1,3 @@
-# EC2-to-S3-IAM-Role-Integration
 # AWS EC2 to S3 Integration (IAM Role-Based)
 
 This project demonstrates how to securely access Amazon S3 from an EC2 instance using IAM roles, without needing to configure access keys.
